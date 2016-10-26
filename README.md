@@ -18,4 +18,4 @@ This is a Periodic Table written in HTML, made by this dude @totallyhuman becaus
 
 Feel free to clone and/or print for usage!
 
-Status: WIP; three rows done (more like two and a half), no font size or family whatsoever, need to clear it out and make separate stylesheet
+Status: WIP; four rows done, no font size or family whatsoever, need to clear it out and make separate stylesheet
