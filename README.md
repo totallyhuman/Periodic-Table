@@ -21,3 +21,6 @@ Feel free to clone and/or print for usage!
 Status: WIP; five rows done, no font size or family whatsoever, need to clear it out and make separate stylesheet
 
 ![This is a "mockup" I made in a document writer.](http://i67.tinypic.com/2jd14au.png)
+
+*This is a "mockup" I made in a document writer.*
+
