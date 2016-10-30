@@ -20,7 +20,7 @@ Feel free to clone and/or print for usage!
 
 Status: WIP; six rows done, no font size or family whatsoever, need to clear it out and make separate stylesheet
 
-![This is a "mockup" I made in a document writer.](http://i67.tinypic.com/2jd14au.png)
+![This is a "mockup" I made in a document writer.](http://i.imgur.com/vKp3N0Z.png)
 
 *This is a "mockup" I made in a document writer.*
 
