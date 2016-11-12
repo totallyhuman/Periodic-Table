@@ -18,9 +18,9 @@ This is a Periodic Table written in HTML, made by this dude @totallyhuman becaus
 
 Feel free to clone and/or print for usage!
 
-Status: WIP; six rows done, no font size or family whatsoever, need to clear it out and make separate stylesheet
+Status: WIP; seven rows done, no font size or family whatsoever, need to clear it out and make separate stylesheet
 
-![This is a "mockup" I made in a document writer.](http://i.imgur.com/vKp3N0Z.png)
+![https://docs.google.com/document/d/1QgEeAimcACsHk_HSdfUaKyct2ag1byDke8JLZKglqxc/edit?usp=sharing](http://i.imgur.com/vKp3N0Z.png)
 
 *This is a "mockup" I made in a document writer.*
 
